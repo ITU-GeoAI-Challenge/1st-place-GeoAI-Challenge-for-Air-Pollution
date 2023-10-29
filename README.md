@@ -7,3 +7,10 @@ Steps:
 3. install the required packages by the commands: pip install -r requirements.txt
 4. run the main script: python main.py
 5. You should see that the file named submission.csv is generated in the same folder, this is the one that was been submitted
+
+Files:
+1. test_terrain.csv is the terrain (topology) data extracted for the locations in each row of the Test.csv file.
+2. meteo.csv is the meteology data extracted for the locations in each row of the Test.csv file.
+3. submission.csv is the final resulted submitted to the challenge website and resulted in the #1 ranking.
+4. main.py is the python script to generate the submission file
+5. AI_for_Good_Air_Pollution_Challenge_Report.pdf is the report for this challenge
